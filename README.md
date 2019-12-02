@@ -1,18 +1,18 @@
 ## GoBarber - Web
 
-![Sign In (Tela de Login)](https://github.com/lucasviga/gobarber-frontend/screenshots/signIn.jpg)
-![Sign Up (Tela de Cadastro)](https://github.com/lucasviga/gobarber-frontend/screenshots/signIn.jpg)
+![Sign In (Tela de Login)](https://github.com/lucasviga/gobarber-frontend/blob/master/screenshots/signIn.jpg)
+![Sign Up (Tela de Cadastro)](https://github.com/lucasviga/gobarber-frontend/blob/master/screenshots/signUp.jpg)
 
-### `GoBarber - backend`
+### GoBarber - backend
 
-[Link](https://www.google.com)
+[Link do projeto](https://www.google.com)
 
-### `GoBarber - mobile`
+### GoBarber - mobile
 
-[Link](https://github.com/lucasviga/gobarber-mobile)
+[Link do projeto](https://github.com/lucasviga/gobarber-mobile)
 
 
-### `Sobre este projeto`
+### Sobre este projeto
 
 O GoBarber é uma aplicação voltado para o prestador de serviço. Seja ele um barbeiro, um cabeleireiro, dono de uma salão, você pode utilizar este projeto da melhor forma que você quiser.
 
