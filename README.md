@@ -33,21 +33,21 @@ Na versão GoBarber - Web, foi desenvolvido somente para o prestador de serviço
 
 ## Tecnologias usadas
 
-create-react-app
-React Router Dom
-Axios
-Redux
-Redux Saga
-Redux Persist
-Yup
-Date Fns
-History
-Immer
-Styled Components
-React Icons
-Polished
-React Toastify
-Reactotron
+- create-react-app
+- React Router Dom
+- Axios
+- Redux
+- Redux Saga
+- Redux Persist
+- Yup
+- Date Fns
+- History
+- Immer
+- Styled Components
+- React Icons
+- Polished
+- React Toastify
+- Reactotron
 
 
 ## Mais
