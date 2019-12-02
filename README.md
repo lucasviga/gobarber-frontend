@@ -1,8 +1,9 @@
 ## GoBarber - Web
 
-![Sign Up (Tela de Cadastro)](https://github.com/lucasviga/gobarber-frontend/blob/master/screenshots/gobarber.jpg)
 ![Sign In (Tela de Login)](https://github.com/lucasviga/gobarber-frontend/blob/master/screenshots/signIn.jpg)
 ![Sign Up (Tela de Cadastro)](https://github.com/lucasviga/gobarber-frontend/blob/master/screenshots/signUp.jpg)
+![Sign Up (Tela de Cadastro)](https://github.com/lucasviga/gobarber-frontend/blob/master/screenshots/dashboard.jpg)
+![Sign Up (Tela de Cadastro)](https://github.com/lucasviga/gobarber-frontend/blob/master/screenshots/profile.jpg)
 
 ### GoBarber - backend
 
